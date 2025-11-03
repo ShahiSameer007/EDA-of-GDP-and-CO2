@@ -2,15 +2,6 @@
 .RData
 .Rproj.user
 \*.Rproj
-
-# Ignore generated output files (optional, but good practice)
-
 \*.png
 \*.jpg
 \*.pdf
-
-# Ignore raw data files if they are large or non-reproducible
-
-# (You might want to keep the .xlsx for this project, but ignore it in large projects)
-
-World_GDP_Population_CO2_Emissions_Dataset.xlsx
